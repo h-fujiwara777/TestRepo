@@ -12,6 +12,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		new HelloWorld();
+		System.out.println("Test");
 	}
 
 }
