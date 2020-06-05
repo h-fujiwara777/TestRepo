@@ -7,7 +7,11 @@ public class HelloWorld {
 	}
 
 	public HelloWorld() {
-		// TODO 自動生成されたコンストラクター・スタブ
+		System.out.println("HelloWorld.");
+	}
+
+	public static void main(String[] args) {
+		new HelloWorld();
 	}
 
 }
